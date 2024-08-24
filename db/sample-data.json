@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "info": "Ritam Maity",
+    "description": "B. Tech from College of Engineering & Management, Kolaghat, Experienced Software Engineer. Born and raised in Howrah, West Bengal. I currently live in Kolaghat."
+  },
+  {
+    "id": 2,
+    "info": "Education",
+    "description": "B. Tech from College of Engineering & Management, Kolaghat"
+  },
+  {
+    "id": 3,
+    "info": "Profession",
+    "description": "Full-Stack Developer"
+  },
+  {
+    "id": 4,
+    "info": "Twitter",
+    "description": "@valiant_34"
+  },
+  {
+    "id": 5,
+    "info": "Personal Project",
+    "description": "Made a full-stack job portal app, Code for that project - https://github.com/ritammaity55/job-portal-app.git"
+  }
+]
